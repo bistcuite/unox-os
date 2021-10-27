@@ -7,6 +7,7 @@ Unox is a x86_64 unix-like operating system written in c and assembly for learn 
 - [ ] Write kernel in c
 - [ ] Port `libc` to our operating system
 - [ ] Write a shell
+- [ ] Write a file system(FAT32)
 - [ ] Excute elf files
 
 ## Screenshots
