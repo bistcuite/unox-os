@@ -9,6 +9,9 @@ Unox is an unix-like operating system written in c and assembly for learn about 
 - [ ] Write a shell
 - [ ] Excute elf files
 
+## Screenshots
+NOT IMPLEMENTED
+
 ## Requirements
 - i386 gcc cross compiler
 - nasm
