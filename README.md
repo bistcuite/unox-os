@@ -2,8 +2,7 @@
 Unox is a x86_64 unix-like operating system written in c and assembly for learn about operating systems.
 
 ## Roadmap
-- [x] Write bootloader
-- [x] Write linker.ld
+- [x] Write bootloader and linker
 - [x] Write kernel in c
 - [x] Port a tiny version of `libc` to our operating system
 - [ ] Write a shell **[WIP]**
