@@ -11,7 +11,7 @@ Unox is a x86_64 unix-like operating system written in c and assembly for learn 
 - [ ] Excute elf files
 
 ## Screenshots
-![1](assets/capture.png)
+![1](assets/capture.PNG)
 
 ## Build and Run
 Requirements :
