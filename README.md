@@ -15,7 +15,7 @@ Unox is a x86 unix-like operating system written in c and assembly for learn abo
 
 ## Build and Run
 Requirements :
-- i386 gcc cross compiler(`x86_64-elf` or `i386-elf`)
+- i386 gcc cross compiler
 - nasm
 - qemo
 
