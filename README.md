@@ -9,7 +9,7 @@ Unox is a x86 unix-like operating system written in c and assembly for learn abo
 - [ ] Excute unox on protected mode
 - [ ] Write a file system(FAT32)
 - [ ] Excute elf files
-- [ ] Rewrite in [Hascal](https://github.com/hascal/hascal)
+- [ ] Rewrite unox in [Hascal](https://github.com/hascal/hascal)
 ## Screenshots
 ![1](assets/Capture.PNG)
 
