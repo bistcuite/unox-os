@@ -1,5 +1,5 @@
 # Unox
-Unox is a x86 unix-like operating system written in c and assembly for learn about operating systems.
+**Unox** is a x86 unix-like operating system written in c and assembly for learn about operating systems.
 
 ## Roadmap
 - [x] Write bootloader and linker
