@@ -17,7 +17,7 @@
 ## Build and Run
 Requirements :
 - i386 gcc cross compiler
-- nasm
+- netwide assembler(nasm)
 - qemo
 
 at first clone this repo :
