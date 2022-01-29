@@ -7,9 +7,8 @@
 - [x] Port a tiny version of `libc` to our operating system
 - [ ] Write a unix shell **[WIP]**
 - [ ] Bash interpreter
-- [ ] Excute unox on protected mode
 - [ ] Write a file system(FAT32)
-- [ ] Excute elf files
+- [ ] Execute elf files
 
 ## Screenshots
 ![1](assets/Capture.PNG)
