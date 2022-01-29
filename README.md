@@ -32,7 +32,7 @@ $ make
 
 run unox on qemu :
 ```
-make run
+$ make run
 ```
 
 ## License
