@@ -7,8 +7,7 @@
 - [x] Port a tiny version of `libc` to our OS
 - [ ] Write a unix shell **[WIP]**
 - [ ] Bash interpreter
-- [ ] Write a file system(FAT32)
-- [ ] Execute elf files
+- [ ] FAT32 FileSystem
 
 ## Screenshots
 ![1](assets/Capture.PNG)
