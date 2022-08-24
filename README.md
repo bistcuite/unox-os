@@ -5,9 +5,9 @@
 - [x] Write bootloader and linker
 - [x] Write kernel in c
 - [x] Port a tiny version of `libc` to our OS
-- [ ] Write a unix shell **[WIP]**
-- [ ] Bash interpreter
 - [ ] FAT32 FileSystem
+- [ ] Write a unix-like shell
+- [ ] Bash interpreter
 
 ## Screenshots
 ![1](assets/Capture.PNG)
